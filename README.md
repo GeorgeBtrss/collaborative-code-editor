@@ -19,3 +19,9 @@ A real-time collaborative code editor built with React, FastAPI, and Socket.IO.
 cd server
 venv\Scripts\activate
 uvicorn main:socket_app --port 5000
+
+## Frontend
+
+```bash
+cd client
+npm start
